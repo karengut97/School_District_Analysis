@@ -18,7 +18,7 @@ The following resources were used to analyize the results:
 The implications of academic dishonesty in Thomas High School for ninth grade math and reading scores do not have a significant impact on the original school district assessment. 
 
 ### District Summary Impacts
-The is the the District Summary **BEFORE** Thomas High School 9th grade score changes:
+This is the District Summary **BEFORE** Thomas High School 9th grade score changes:
 ![District_Summary_Original.png](Resources/District_Summary_Original.png)
 
 This is the the District Summary **AFTER** Thomas High School 9th grade score changes:
@@ -30,8 +30,16 @@ At the District Summary Assessment, the following impacts exist:
 * Overall Passing Math: -0.2%
 * All other measures are unchanged
 
-### 2 School Summary Impacts
-Pics added
+The difference after removing Thomas High School 9th grade scores does not alter this summary. Once rounding is incorported, the scores looks the same.
+
+### School Summary Impacts
+This is the School Summary **BEFORE** Thomas High School 9th grade score changes:
+![School_Summary_Original.png](Resources/School_Summary_Original.png)
+
+This is the the School Summary **AFTER** Thomas High School 9th grade score changes:
+![School_Summary_Revised.png](Resources/School_Summary_Revised.png)
+
+
 ### 3 How does replacing the ninth-grade scores affect THS peformance relative to other schools
 The impact of replacing the 9th grade students' math and reading scored with "NaN" is minimal. It is not enough to invalidate the overall scores of the school or district.
 
