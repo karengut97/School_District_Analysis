@@ -15,13 +15,20 @@ The following resources were used to analyize the results:
 
 
 ## School District Analysis Results
-UPDATE: The implications of academic dishonesty at Thomas High School ninth graders does not have a significant impact on the original school disctric assessment. 
+The implications of academic dishonesty in Thomas High School for ninth grade math and reading scores do not have a significant impact on the original school district assessment. 
 
 ### District Summary Impacts
-
+The is the the District Summary **BEFORE** Thomas High School 9th grade score changes:
 ![District_Summary_Original.png](Resources/District_Summary_Original.png)
 
+This is the the District Summary **AFTER** Thomas High School 9th grade score changes:
 ![District_Summary_Revised.png](Resources/District_Summary_Revised.png)
+
+At the District Summary Assessment, the following impacts exist:
+* Average Math Scores: -0.1%
+* Average Reading Scores: +0.1%
+* Overall Passing Math: -0.2%
+* All other measures are unchanged
 
 ### 2 School Summary Impacts
 Pics added
