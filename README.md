@@ -49,12 +49,51 @@ Thomas High School's Summary Impacts:
 No statistical relevance is present for the overall school score summary changes.
 
 ### How does replacing the ninth-grade scores affect THS peformance relative to other schools
-The impact of replacing the 9th grade students' math and reading scored with "NaN" is minimal. It is not enough to invalidate the overall scores of the school or district.
+The impact of replacing the 9th grade students' math and reading scored with "NaN" is minimal. It is not enough to invalidate the overall scores of the school or district. Thomas High School remains in the Top 5 Schools for the district.
 
-### 4 Math and reading scores by grade
+This is the Top 5 Summary **BEFORE** Thomas High School 9th grade score changes: 
+![Top_5_Schools_Original.png](Resources/Top_5_Schools_Original.png)
+
+This is the School Summary **AFTER** Thomas High School 9th grade score changes: 
+![Top_5_Schools_Revised.png](Resources/Top_5_Schools_Revised.png)
+
+### Math and reading scores by grade
+A comparison for the math and reading grade demonstrates the scores for all schools and grades are not impacted by removing THS 9th graders from the summary.
+#### Math Scores by Grade:
+Side by Side Comparison of Original Math Scores and Revised Math Scores with THS 9th Graders Removed:
+<img  src="Resources/Math_Scores_By_Grade_Original.png" width="400" height="450"/> <img src="Resources/Math_Scores_By_Grade_Revised.png" width="400" height="450"/> 
+
+#### Reading Scores by Grade:
+Side by Side Comparison of Original Reading Scores and Revised Reading Scores with THS 9th Graders Removed:
+<img  src="Resources/Reading_Scores_By_Grade_Original.png" width="400" height="450"/> <img src="Resources/Reading_Scores_By_Grade_Revised.png" width="400" height="450"/> 
+
 
 ### School Spending
+School Spending is not impacted by the changes to Thomas High School. All measures remaing the same. 
+
+**BEFORE** Thomas High School Changes:
+![Scores_By_School_Spending_Original.png](Resources/Scores_By_School_Spending_Original.png)
+
+**AFTER** Thomas High School Changes:
+![Scores_By_School_Spending_Revised.png](Resources/Scores_By_School_Spending_Revised.png)
 
 ### School Size
+School size results remains the same as students were not removed, only the scores were removed for Thomas High School 9th graders.
+
+**BEFORE** Thomas High School Changes:
+![Scores_By_School_Size_Original.png](Resources/Scores_By_School_Size_Original.png)
+
+**AFTER** Thomas High School Changes:
+![Scores_By_School_Size_Revised.png](Resources/Scores_By_School_Size_Revised.png)
+
 
 ### School Type
+School type results remains the same as students were not removed, only the scores were removed for Thomas High School 9th graders.
+
+**BEFORE** Thomas High School Changes:
+![Scores_By_School_Type_Original.png](Resources/Scores_By_School_Type_Original.png)
+
+**AFTER** Thomas High School Changes:
+![Scores_By_School_Type_Revised.png](Resources/Scores_By_School_Type_Revised.png)
+
+## Summary
