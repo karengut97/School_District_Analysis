@@ -21,7 +21,7 @@ The implications of academic dishonesty in Thomas High School for ninth grade ma
 This is the District Summary **BEFORE** Thomas High School 9th grade score changes:
 ![District_Summary_Original.png](Resources/District_Summary_Original.png)
 
-This is the the District Summary **AFTER** Thomas High School 9th grade score changes:
+This is the District Summary **AFTER** Thomas High School 9th grade score changes:
 ![District_Summary_Revised.png](Resources/District_Summary_Revised.png)
 
 At the District Summary Assessment, the following impacts exist:
@@ -34,9 +34,9 @@ The difference after removing Thomas High School 9th grade scores does not alter
 
 ### School Summary Impacts
 This is the School Summary **BEFORE** Thomas High School 9th grade score changes: 
+![School_Summary_Original.png](Resources/School_Summary_Original.png)
 
-
-This is the the School Summary **AFTER** Thomas High School 9th grade score changes: 
+This is the School Summary **AFTER** Thomas High School 9th grade score changes: 
 
 
 
