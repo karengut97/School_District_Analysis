@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Project Overview
-Anomolies have been discovered in the math and reading scores for Thomas High School. This project compares the original results from our district analysis to the revised analysis of Thomas High School to determine if the dishonest reporting from Thomas High School has an impact on the overall district summaries:
+Anomalies have been discovered in the math and reading scores for Thomas High School. This project compares the original results from our district analysis to the revised analysis of Thomas High School to determine if the dishonest reporting from Thomas High School has an impact on the overall district summaries:
 
 * Math and Reading scores by grade
 * Scores by school spending
@@ -9,7 +9,7 @@ Anomolies have been discovered in the math and reading scores for Thomas High Sc
 * Scores by school type
 
 ## Resources
-The following resources were used to analyize the results:
+The following resources were used to analyze the results:
 * Data Sources: PyCitySchools_Challenge_starter_code.ipynb
 * Original analysis: PyCitySchools.ipynb
 
@@ -24,13 +24,11 @@ This is the District Summary **BEFORE** Thomas High School 9th grade score chang
 This is the District Summary **AFTER** Thomas High School 9th grade score changes:
 ![District_Summary_Revised.png](Resources/District_Summary_Revised.png)
 
-At the District Summary Assessment, the following impacts exist:
+At the District Summary Assessment, the following impact exists:
 * Average Math Scores: -0.1%
-* Average Reading Scores: +0.1%
-* Overall Passing Math: -0.2%
 * All other measures are unchanged
 
-The difference after removing Thomas High School 9th grade scores does not alter this summary. Once rounding is incorported, the scores looks the same.
+The difference after removing Thomas High School 9th grade scores does not alter this summary. Once rounding is incorporated, the scores will be the same.
 
 ### School Summary Impacts
 This is the School Summary **BEFORE** Thomas High School 9th grade score changes: 
@@ -46,9 +44,8 @@ Thomas High School's Summary Impacts:
 * % Passing Reading: -0.29%
 * % Overall Passing: -0.32%
 
-No statistical relevance is present for the overall school score summary changes.
+No statistical relevance is present for the overall school score summary changes, specific to Thomas High School.
 
-### How does replacing the ninth-grade scores affect THS peformance relative to other schools
 The impact of replacing the 9th grade students' math and reading scored with "NaN" is minimal. It is not enough to invalidate the overall scores of the school or district. Thomas High School remains in the Top 5 Schools for the district.
 
 This is the Top 5 Summary **BEFORE** Thomas High School 9th grade score changes: 
@@ -69,7 +66,7 @@ Side by Side Comparison of Original Reading Scores and Revised Reading Scores wi
 
 
 ### School Spending
-School Spending is not impacted by the changes to Thomas High School. All measures remaing the same. 
+Scores by school spending is not impacted by the changes to Thomas High School. All measures remain the same. 
 
 **BEFORE** Thomas High School Changes:
 ![Scores_By_School_Spending_Original.png](Resources/Scores_By_School_Spending_Original.png)
@@ -78,7 +75,7 @@ School Spending is not impacted by the changes to Thomas High School. All measur
 ![Scores_By_School_Spending_Revised.png](Resources/Scores_By_School_Spending_Revised.png)
 
 ### School Size
-School size results remains the same as students were not removed, only the scores were removed for Thomas High School 9th graders.
+Scores by school size results remain the same as students were not removed, only the scores were removed for Thomas High School 9th graders.
 
 **BEFORE** Thomas High School Changes:
 ![Scores_By_School_Size_Original.png](Resources/Scores_By_School_Size_Original.png)
@@ -88,7 +85,7 @@ School size results remains the same as students were not removed, only the scor
 
 
 ### School Type
-School type results remains the same as students were not removed, only the scores were removed for Thomas High School 9th graders.
+Scores by school type results remains the same as students were not removed, only the scores were removed for Thomas High School 9th graders.
 
 **BEFORE** Thomas High School Changes:
 ![Scores_By_School_Type_Original.png](Resources/Scores_By_School_Type_Original.png)
@@ -97,3 +94,8 @@ School type results remains the same as students were not removed, only the scor
 ![Scores_By_School_Type_Revised.png](Resources/Scores_By_School_Type_Revised.png)
 
 ## Summary
+The overall assessment for the school district is not impacted by the academic dishonesty of Thomas High School 9 grade scores. 
+* The District Math Average decrements by 0.1. 
+* The District Spending Profile assessment by Scores is unchanged.
+* The District School Size assessment by Scores is unchanged.
+* The District School Type assessment by Scores is unchanged.
