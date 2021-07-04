@@ -33,10 +33,10 @@ At the District Summary Assessment, the following impacts exist:
 The difference after removing Thomas High School 9th grade scores does not alter this summary. Once rounding is incorported, the scores looks the same.
 
 ### School Summary Impacts
-This is the School Summary **BEFORE** Thomas High School 9th grade score changes:
+This is the School Summary **BEFORE** Thomas High School 9th grade score changes: 
 ![School_Summary_Original.png](Resources/School_Summary_Original.png)
 
-This is the the School Summary **AFTER** Thomas High School 9th grade score changes:
+This is the the School Summary **AFTER** Thomas High School 9th grade score changes: 
 ![School_Summary_Revised.png](Resources/School_Summary_Revised.png)
 
 
