@@ -34,10 +34,10 @@ The difference after removing Thomas High School 9th grade scores does not alter
 
 ### School Summary Impacts
 This is the School Summary **BEFORE** Thomas High School 9th grade score changes: 
-![School_Summary_Original.png](Resources/School_Summary_Original.png)
+
 
 This is the the School Summary **AFTER** Thomas High School 9th grade score changes: 
-![School_Summary_Revised.png](Resources/School_Summary_Revised.png)
+
 
 
 ### 3 How does replacing the ninth-grade scores affect THS peformance relative to other schools
