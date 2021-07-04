@@ -17,8 +17,12 @@ The following resources were used to analyize the results:
 ## School District Analysis Results
 UPDATE: The implications of academic dishonesty at Thomas High School ninth graders does not have a significant impact on the original school disctric assessment. 
 
-### 1 District Summary Impacts
-Pics added
+### District Summary Impacts
+
+![District_Summary_Original.png](Resources/District_Summary_Original.png)
+
+![District_Summary_Revised.png](Resources/District_Summary_Revised.png)
+
 ### 2 School Summary Impacts
 Pics added
 ### 3 How does replacing the ninth-grade scores affect THS peformance relative to other schools
